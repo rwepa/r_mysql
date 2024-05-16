@@ -5,7 +5,10 @@
 
 3.MySQL Shell
 
-4.RStudio 連接MySQL三大方法: 使用 odbc 套件
+4.RStudio 連接MySQL三大方法: 
+
+使用 odbc 套件
+
 方法1 使用 RStudio \ Connections 視窗
 
 方法2 使用odbc::dbConnect+寫入密碼 --> 資安問題!
