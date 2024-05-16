@@ -16,6 +16,7 @@
 方法3 使用odbc::dbConnect+詢問密碼
 
 🌷下載: r_mysql.pdf
+
 https://github.com/rwepa/r_mysql/blob/main/r_mysql.pdf
 
 🌷下載: r_mysql.R
