@@ -11,9 +11,9 @@
 
 方法1 使用 RStudio \ Connections 視窗
 
-方法2 使用odbc::dbConnect+寫入密碼 --> 資安問題!
+方法2 使用 odbc::dbConnect+寫入密碼 --> 資安問題!!!
 
-方法3 使用odbc::dbConnect+詢問密碼
+方法3 使用 odbc::dbConnect+詢問密碼
 
 🌷下載: r_mysql.pdf
 
